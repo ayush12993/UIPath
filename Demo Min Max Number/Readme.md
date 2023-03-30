@@ -14,5 +14,7 @@ Min And Max Demo.xaml - In this we pass an array of numbers and we want to find 
 IfElseDemo.xaml -This is simple if else logic.
 
  FlowDecision.xaml -  This is mainly used in comparision to if esle block.It is simple to implement in comparision to if-else block. It is implemented using flowchart. 
+
+  TicketWhileDemo.xaml- In this we have used while loop to show how tickets have been booked and based on that we have calculated the price also. 
     
   
