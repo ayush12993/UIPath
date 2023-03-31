@@ -20,6 +20,11 @@ FlowDecision.xaml - This is mainly used in comparision to if esle block.It is si
 
 TicketWhileDemo.xaml- In this we have used while loop to show how tickets have been booked and based on that we have calculated the price also.
 
+SwitchDemo.xaml- In this we are going to see how the switch case works.
+In this we have used grocery shopping as an example.
+
+EmployeeUserIdPassword.xaml - In this we will create employee user id with the help of substring.
+
 # Open New Browser
 
 This consist of multiple project.
