@@ -1,13 +1,13 @@
 {
-  "name": "Demo Min Max Number",
+  "name": "OpenFlipkart",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[2.0.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.5]",
-    "UiPath.UIAutomation.Activities": "[21.10.6]",
-    "UiPath.Word.Activities": "[1.13.1]"
+    "UiPath.UIAutomation.Activities": "[21.10.6]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -47,7 +47,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "a69f7b7a-38af-4cde-ac9f-e5fc5f5ac9fa",
+      "uniqueId": "0de5a4fb-a48b-4613-8a0a-6919b16920c6",
       "input": [],
       "output": []
     }

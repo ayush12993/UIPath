@@ -49,6 +49,9 @@ String Tut.xaml - This is just a demo of how string works in UIPath.
 
 Sum Demo.xaml - This is a simple sum demo implementation.
 
+# OpenAmazon
+This consist of Amazon Login and Search and it is implemented using windows credential manager
+
 
 # Section Assignment Bot
 This consist of section assigner Bot where section is assigned based on even or odd number.

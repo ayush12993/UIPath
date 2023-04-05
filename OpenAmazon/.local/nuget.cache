@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cywOWStc4yDidy1UQlWhmgDIx6WUx8F8cGVpITMOn2Ggwfj+MbI4AjUiFrzlqKqe4rkRBBXH/3d5bRe4CMukAQ==",
+  "dgSpecHash": "fft7KsJYEIKHBT2Hybp9+hx4uLW3hXmX+/vV2JqS9oGwigd+eTZiQNItAw1tkAdI3BzmhcI19R9CoY3WYk4zhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\Demo Min Max Number\\.local\\",
+  "projectFilePath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\OpenFlipkart\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\ayush\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
+    "C:\\Users\\ayush\\.nuget\\packages\\credentialmanagement\\1.0.2\\credentialmanagement.1.0.2.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\documentformat.openxml\\2.5.0\\documentformat.openxml.2.5.0.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\google.apis\\1.43.0\\google.apis.1.43.0.nupkg.sha512",
@@ -85,6 +86,7 @@
     "C:\\Users\\ayush\\.nuget\\packages\\uipath\\21.10.40.21933\\uipath.21.10.40.21933.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.3\\uipath.activities.runtimegovernance.1.1.3.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.connectionclient\\1.0.0-20210921.1\\uipath.connectionclient.1.0.0-20210921.1.nupkg.sha512",
+    "C:\\Users\\ayush\\.nuget\\packages\\uipath.credentials.activities\\2.0.0\\uipath.credentials.activities.2.0.0.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\uipath.excel.activities.2.11.4.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.imageprocessing\\21.10.3\\uipath.imageprocessing.21.10.3.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.mail.activities\\1.12.3\\uipath.mail.activities.1.12.3.nupkg.sha512",
@@ -94,11 +96,7 @@
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.system.activities\\21.10.5\\uipath.system.activities.21.10.5.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.6\\uipath.uiautomation.activities.21.10.6.nupkg.sha512",
-    "C:\\Users\\ayush\\.nuget\\packages\\uipath.vision\\3.1.4\\uipath.vision.3.1.4.nupkg.sha512",
-    "C:\\Users\\ayush\\.nuget\\packages\\uipath.word.activities\\1.13.1\\uipath.word.activities.1.13.1.nupkg.sha512",
-    "C:\\Users\\ayush\\.nuget\\packages\\xceed.document.net\\2.0.21359.11160\\xceed.document.net.2.0.21359.11160.nupkg.sha512",
-    "C:\\Users\\ayush\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160\\xceed.pdf.2.0.21359.11160.nupkg.sha512",
-    "C:\\Users\\ayush\\.nuget\\packages\\xceed.words.net\\2.0.21359.11160\\xceed.words.net.2.0.21359.11160.nupkg.sha512"
+    "C:\\Users\\ayush\\.nuget\\packages\\uipath.vision\\3.1.4\\uipath.vision.3.1.4.nupkg.sha512"
   ],
   "logs": []
 }
