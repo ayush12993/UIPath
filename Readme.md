@@ -57,4 +57,21 @@ This consist of Amazon Login and Search and it is implemented using windows cred
 This consist of section assigner Bot where section is assigned based on even or odd number.
 
 for ex - 13(Section B),12(Section A)    
-  
+
+
+# DataTable
+Data table using Select Method
+There is DataTable.Select() method
+
+Tasks:
+1. Filter Only IT Employees
+
+dtEmployee.Select("[Department]='IT'").CopyToDataTable
+
+2. Filter both IT and Finance Employees
+
+dtEmployee.Select("[Department]='IT' or [Department]='Finance'").CopyToDataTable
+
+3. Filter employees and salary less than 30k
+
+dtEmployee.Select("[Department]='IT' or [Department]='Finance' AND [Salary]<30000").CopyToDataTable

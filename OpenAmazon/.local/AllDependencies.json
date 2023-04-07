@@ -7737,9 +7737,9 @@
     "restore": {
       "projectUniqueName": "OpenFlipkart",
       "projectName": "OpenFlipkart",
-      "projectPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\OpenFlipkart\\.local",
+      "projectPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\OpenAmazon\\.local",
       "packagesPath": "C:\\Users\\ayush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\OpenFlipkart\\.local"
+      "outputPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\OpenAmazon\\.local"
     },
     "frameworks": {
       "net461": {

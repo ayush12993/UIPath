@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fft7KsJYEIKHBT2Hybp9+hx4uLW3hXmX+/vV2JqS9oGwigd+eTZiQNItAw1tkAdI3BzmhcI19R9CoY3WYk4zhA==",
+  "dgSpecHash": "6mUq/tnqBCYzFAmHkU7FS3yA9mm/WkrwQkw8Wp3o55rrKaziOZaqhs6EvffGraVnIYa64h6L7tQpVdri8JDlJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\OpenFlipkart\\.local\\",
+  "projectFilePath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\OpenAmazon\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\ayush\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\credentialmanagement\\1.0.2\\credentialmanagement.1.0.2.nupkg.sha512",
