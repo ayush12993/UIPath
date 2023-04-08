@@ -49,6 +49,10 @@ String Tut.xaml - This is just a demo of how string works in UIPath.
 
 Sum Demo.xaml - This is a simple sum demo implementation.
 
+OpenWord.xaml -  In this file we will see how UIPath replaces some text in MSWord.
+
+SharePriceExtractData.xaml - This will help you to extract the data aka dynamic values of world population and it will simultaneously store the data in excel file.
+
 # OpenAmazon
 This consist of Amazon Login and Search and it is implemented using windows credential manager
 

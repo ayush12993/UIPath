@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iWA5/QSXXVxNlcOMeNi7+fjr4S4dpMOsEeoifClxHeGnG8L3P63z4U8lHW+B5eWY0JpA5ah535K818Gs+QbnQA==",
+  "dgSpecHash": "QdkbUC7h0PuRjanIrK0flqWSe7io5AzHZAokWEKTc2bTTx7PaiJf4EoiHt1TQMKIVy9EGOaoHQOrqTAwvbZvuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\Open New Browser\\.local\\",
   "expectedPackageFiles": [
@@ -94,7 +94,11 @@
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.system.activities\\21.10.5\\uipath.system.activities.21.10.5.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
     "C:\\Users\\ayush\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.6\\uipath.uiautomation.activities.21.10.6.nupkg.sha512",
-    "C:\\Users\\ayush\\.nuget\\packages\\uipath.vision\\3.1.4\\uipath.vision.3.1.4.nupkg.sha512"
+    "C:\\Users\\ayush\\.nuget\\packages\\uipath.vision\\3.1.4\\uipath.vision.3.1.4.nupkg.sha512",
+    "C:\\Users\\ayush\\.nuget\\packages\\uipath.word.activities\\1.13.1\\uipath.word.activities.1.13.1.nupkg.sha512",
+    "C:\\Users\\ayush\\.nuget\\packages\\xceed.document.net\\2.0.21359.11160\\xceed.document.net.2.0.21359.11160.nupkg.sha512",
+    "C:\\Users\\ayush\\.nuget\\packages\\xceed.pdf\\2.0.21359.11160\\xceed.pdf.2.0.21359.11160.nupkg.sha512",
+    "C:\\Users\\ayush\\.nuget\\packages\\xceed.words.net\\2.0.21359.11160\\xceed.words.net.2.0.21359.11160.nupkg.sha512"
   ],
   "logs": []
 }
