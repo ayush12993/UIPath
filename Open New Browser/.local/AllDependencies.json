@@ -8091,15 +8091,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ayush\\.nuget\\packages\\": {}
+    "C:\\Users\\palla\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Open New Browser",
       "projectName": "Open New Browser",
-      "projectPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\Open New Browser\\.local",
-      "packagesPath": "C:\\Users\\ayush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\Open New Browser\\.local"
+      "projectPath": "D:\\UIPath Learning\\UIPath\\Open New Browser\\.local",
+      "packagesPath": "C:\\Users\\palla\\.nuget\\packages\\",
+      "outputPath": "D:\\UIPath Learning\\UIPath\\Open New Browser\\.local"
     },
     "frameworks": {
       "net461": {
@@ -8130,7 +8130,7 @@
             "version": "[1.13.1, 1.13.1]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\ayush\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\palla\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {

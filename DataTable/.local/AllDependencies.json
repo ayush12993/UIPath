@@ -7566,15 +7566,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ayush\\.nuget\\packages\\": {}
+    "C:\\Users\\palla\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "DataTable",
       "projectName": "DataTable",
-      "projectPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\DataTable\\.local",
-      "packagesPath": "C:\\Users\\ayush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayush\\OneDrive\\Documents\\UiPath\\DataTable\\.local"
+      "projectPath": "D:\\UIPath Learning\\UIPath\\DataTable\\.local",
+      "packagesPath": "C:\\Users\\palla\\.nuget\\packages\\",
+      "outputPath": "D:\\UIPath Learning\\UIPath\\DataTable\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7600,7 +7600,7 @@
             "version": "[21.10.6, 21.10.6]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\ayush\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\palla\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
